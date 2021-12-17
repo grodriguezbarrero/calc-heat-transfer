@@ -1,4 +1,4 @@
-# Casio calculator programmes for heat transfer models
+# Casio calculator programmes for the Nusselt number (heat transfer)
 These might come in handy for anyone who has a heat transfer exam coming up. The equations used in this area of knowledge tend to be more based on models rather than fundamental physical laws, so they end up being a pain to type on a calculator. The posted programmes here all calculate the Nusselt number (Nu) in a variety of situations.
 
 The equations posted here are:
