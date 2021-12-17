@@ -1,5 +1,5 @@
 # Casio calculator programmes for heat transfer models
-These might come in handy for anyone who has a heat transfer exam coming up. The equations used in this area of knowledge tend to be more based in models rather than fundamental physical laws, so they end up being a pain to type on a calculator. The posted programmes here all calculate the Nusselt number (Nu) in a variety of situations.
+These might come in handy for anyone who has a heat transfer exam coming up. The equations used in this area of knowledge tend to be more based on models rather than fundamental physical laws, so they end up being a pain to type on a calculator. The posted programmes here all calculate the Nusselt number (Nu) in a variety of situations.
 
 The equations posted here are:
 - 2CHIL-CO: Chilton and Colburn - an external mixed flow (i.e. both laminar and turbulent) slides on a horizontal plane (0.6<Pr<60, ReL<10^8)
